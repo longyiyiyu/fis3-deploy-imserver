@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-imserver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fis3 deploy plugin for imserver",
   "main": "index.js",
   "scripts": {
