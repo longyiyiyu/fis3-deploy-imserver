@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-imserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fis3 deploy plugin for imserver",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/longyiyiyu/fis3-deploy-imserver#readme",
   "dependencies": {
-    "archiver": "^1.3.0",
-    "d-tpl": "^0.1.0"
+    "archiver": "^1.3.0"
   }
 }
